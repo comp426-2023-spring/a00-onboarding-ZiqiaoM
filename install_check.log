@@ -1,0 +1,8 @@
+Install checked: 2023-01-19T01:12:42+00:00
+
+SYSTEM:	Linux vultr 5.10.0-9-amd64 #1 SMP Debian 5.10.70-1 (2021-09-30) x86_64 GNU/Linux
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.30.2
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Oct 01 2021 01:51:08)
+CURL:	[/root/anaconda3/bin/curl] curl 7.71.1 (x86_64-conda_cos6-linux-gnu) libcurl/7.71.1 OpenSSL/1.1.1k zlib/1.2.11 libssh2/1.9.0
+NODE:	[/root/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
